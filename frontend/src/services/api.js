@@ -7,15 +7,13 @@ export const checkHealth = async () => {
 };
 
 // predict price
-export const predictPrice = async (date) => {
-    try {
-      const res = await apiClient.post("/predict", { date });
-      return res.data;
-    } catch (error) {
-      console.error(error);
-      throw error;
-    }
-  };
+export const predictPrice = async (year, usdRate) => {
+  const response = await apiClient.post("/predict", {
+    year: Number(year),
+    usd_to_inr: Number(usdRate)
+  });
+  return response.data;
+};
 
 export const getGoldHistory = async () => {
   const res = await apiClient.get("/gold/history");

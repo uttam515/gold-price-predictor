@@ -13,9 +13,9 @@ def predict():
             "error": "Request body must be JSON"
         }), 400
 
-    if "date" not in data:
+    if "year" not in data or "usd_to_inr" not in data:
         return jsonify({
-            "error": "Missing required field: date"
+            "error": "Missing required fields: year and usd_to_inr"
         }), 400
 
     try:

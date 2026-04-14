@@ -66,7 +66,13 @@ plt.tight_layout()
 plt.savefig("prediction_plot.png")
 plt.show()
 
+import joblib
 
+joblib.dump(model, "gold_model.pkl")
+joblib.dump(scaler_X, "scaler_X.pkl")
+joblib.dump(scaler_y, "scaler_y.pkl")
+
+print("Model saved successfully")
 
 
 
