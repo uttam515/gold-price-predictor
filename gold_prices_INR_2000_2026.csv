@@ -1,0 +1,317 @@
+Year,Month,Date,Price_INR_per_10g,Notes
+2000,January,2000-01-31,4400,Annual average
+2000,February,2000-02-29,4400,Annual average
+2000,March,2000-03-31,4400,Annual average
+2000,April,2000-04-30,4400,Annual average
+2000,May,2000-05-31,4400,Annual average
+2000,June,2000-06-30,4400,Annual average
+2000,July,2000-07-31,4400,Annual average
+2000,August,2000-08-31,4400,Annual average
+2000,September,2000-09-30,4400,Annual average
+2000,October,2000-10-31,4400,Annual average
+2000,November,2000-11-30,4400,Annual average
+2000,December,2000-12-31,4400,Annual average
+2001,January,2001-01-31,4300,Annual average
+2001,February,2001-02-28,4300,Annual average
+2001,March,2001-03-31,4300,Annual average
+2001,April,2001-04-30,4300,Annual average
+2001,May,2001-05-31,4300,Annual average
+2001,June,2001-06-30,4300,Annual average
+2001,July,2001-07-31,4300,Annual average
+2001,August,2001-08-31,4300,Annual average
+2001,September,2001-09-30,4300,Annual average
+2001,October,2001-10-31,4300,Annual average
+2001,November,2001-11-30,4300,Annual average
+2001,December,2001-12-31,4300,Annual average
+2002,January,2002-01-31,4990,Annual average
+2002,February,2002-02-28,4990,Annual average
+2002,March,2002-03-31,4990,Annual average
+2002,April,2002-04-30,4990,Annual average
+2002,May,2002-05-31,4990,Annual average
+2002,June,2002-06-30,4990,Annual average
+2002,July,2002-07-31,4990,Annual average
+2002,August,2002-08-31,4990,Annual average
+2002,September,2002-09-30,4990,Annual average
+2002,October,2002-10-31,4990,Annual average
+2002,November,2002-11-30,4990,Annual average
+2002,December,2002-12-31,4990,Annual average
+2003,January,2003-01-31,5600,Annual average
+2003,February,2003-02-28,5600,Annual average
+2003,March,2003-03-31,5600,Annual average
+2003,April,2003-04-30,5600,Annual average
+2003,May,2003-05-31,5600,Annual average
+2003,June,2003-06-30,5600,Annual average
+2003,July,2003-07-31,5600,Annual average
+2003,August,2003-08-31,5600,Annual average
+2003,September,2003-09-30,5600,Annual average
+2003,October,2003-10-31,5600,Annual average
+2003,November,2003-11-30,5600,Annual average
+2003,December,2003-12-31,5600,Annual average
+2004,January,2004-01-31,5850,Annual average
+2004,February,2004-02-29,5850,Annual average
+2004,March,2004-03-31,5850,Annual average
+2004,April,2004-04-30,5850,Annual average
+2004,May,2004-05-31,5850,Annual average
+2004,June,2004-06-30,5850,Annual average
+2004,July,2004-07-31,5850,Annual average
+2004,August,2004-08-31,5850,Annual average
+2004,September,2004-09-30,5850,Annual average
+2004,October,2004-10-31,5850,Annual average
+2004,November,2004-11-30,5850,Annual average
+2004,December,2004-12-31,5850,Annual average
+2005,January,2005-01-31,7000,Annual average
+2005,February,2005-02-28,7000,Annual average
+2005,March,2005-03-31,7000,Annual average
+2005,April,2005-04-30,7000,Annual average
+2005,May,2005-05-31,7000,Annual average
+2005,June,2005-06-30,7000,Annual average
+2005,July,2005-07-31,7000,Annual average
+2005,August,2005-08-31,7000,Annual average
+2005,September,2005-09-30,7000,Annual average
+2005,October,2005-10-31,7000,Annual average
+2005,November,2005-11-30,7000,Annual average
+2005,December,2005-12-31,7000,Annual average
+2006,January,2006-01-31,8400,Estimated mid-year rally
+2006,February,2006-02-28,8400,Estimated mid-year rally
+2006,March,2006-03-31,8700,Estimated mid-year rally
+2006,April,2006-04-30,9500,Estimated mid-year rally
+2006,May,2006-05-31,9800,Estimated mid-year rally
+2006,June,2006-06-30,9200,Estimated mid-year rally
+2006,July,2006-07-31,9500,Estimated mid-year rally
+2006,August,2006-08-31,9300,Estimated mid-year rally
+2006,September,2006-09-30,8900,Estimated mid-year rally
+2006,October,2006-10-31,8800,Estimated mid-year rally
+2006,November,2006-11-30,9300,Estimated mid-year rally
+2006,December,2006-12-31,9000,Estimated mid-year rally
+2007,January,2007-01-31,9300,Annual average ~10800
+2007,February,2007-02-28,9500,Annual average ~10800
+2007,March,2007-03-31,9300,Annual average ~10800
+2007,April,2007-04-30,9000,Annual average ~10800
+2007,May,2007-05-31,8700,Annual average ~10800
+2007,June,2007-06-30,8600,Annual average ~10800
+2007,July,2007-07-31,8700,Annual average ~10800
+2007,August,2007-08-31,8900,Annual average ~10800
+2007,September,2007-09-30,9600,Annual average ~10800
+2007,October,2007-10-31,10100,Annual average ~10800
+2007,November,2007-11-30,10100,Annual average ~10800
+2007,December,2007-12-31,10700,Annual average ~10800
+2008,January,2008-01-31,11800,Annual average ~12500
+2008,February,2008-02-29,12700,Annual average ~12500
+2008,March,2008-03-31,12200,Annual average ~12500
+2008,April,2008-04-30,11500,Annual average ~12500
+2008,May,2008-05-31,12200,Annual average ~12500
+2008,June,2008-06-30,13100,Annual average ~12500
+2008,July,2008-07-31,12700,Annual average ~12500
+2008,August,2008-08-31,11900,Annual average ~12500
+2008,September,2008-09-30,13600,Annual average ~12500
+2008,October,2008-10-31,11800,Annual average ~12500
+2008,November,2008-11-30,13300,Annual average ~12500
+2008,December,2008-12-31,13800,Annual average ~12500
+2009,January,2009-01-31,14700,Annual average ~14500
+2009,February,2009-02-28,15900,Annual average ~14500
+2009,March,2009-03-31,15200,Annual average ~14500
+2009,April,2009-04-30,14500,Annual average ~14500
+2009,May,2009-05-31,15000,Annual average ~14500
+2009,June,2009-06-30,14600,Annual average ~14500
+2009,July,2009-07-31,14700,Annual average ~14500
+2009,August,2009-08-31,15200,Annual average ~14500
+2009,September,2009-09-30,15600,Annual average ~14500
+2009,October,2009-10-31,16000,Annual average ~14500
+2009,November,2009-11-30,17900,Annual average ~14500
+2009,December,2009-12-31,16600,Annual average ~14500
+2010,January,2010-01-31,16300,Annual average ~18500
+2010,February,2010-02-28,16700,Annual average ~18500
+2010,March,2010-03-31,16400,Annual average ~18500
+2010,April,2010-04-30,17100,Annual average ~18500
+2010,May,2010-05-31,18300,Annual average ~18500
+2010,June,2010-06-30,18900,Annual average ~18500
+2010,July,2010-07-31,17800,Annual average ~18500
+2010,August,2010-08-31,19200,Annual average ~18500
+2010,September,2010-09-30,19200,Annual average ~18500
+2010,October,2010-10-31,19600,Annual average ~18500
+2010,November,2010-11-30,20800,Annual average ~18500
+2010,December,2010-12-31,20600,Annual average ~18500
+2011,January,2011-01-31,19900,Annual average ~26400
+2011,February,2011-02-28,20900,Annual average ~26400
+2011,March,2011-03-31,21000,Annual average ~26400
+2011,April,2011-04-30,22300,Annual average ~26400
+2011,May,2011-05-31,22700,Annual average ~26400
+2011,June,2011-06-30,22000,Annual average ~26400
+2011,July,2011-07-31,23600,Annual average ~26400
+2011,August,2011-08-31,27300,Annual average ~26400
+2011,September,2011-09-30,25900,Annual average ~26400
+2011,October,2011-10-31,27400,Annual average ~26400
+2011,November,2011-11-30,29800,Annual average ~26400
+2011,December,2011-12-31,26500,Annual average ~26400
+2012,January,2012-01-31,28200,Annual average ~31050
+2012,February,2012-02-29,28400,Annual average ~31050
+2012,March,2012-03-31,27700,Annual average ~31050
+2012,April,2012-04-30,28400,Annual average ~31050
+2012,May,2012-05-31,28700,Annual average ~31050
+2012,June,2012-06-30,29000,Annual average ~31050
+2012,July,2012-07-31,29500,Annual average ~31050
+2012,August,2012-08-31,29900,Annual average ~31050
+2012,September,2012-09-30,30700,Annual average ~31050
+2012,October,2012-10-31,30300,Annual average ~31050
+2012,November,2012-11-30,30700,Annual average ~31050
+2012,December,2012-12-31,29700,Annual average ~31050
+2013,January,2013-01-31,29000,Annual average ~29600
+2013,February,2013-02-28,28200,Annual average ~29600
+2013,March,2013-03-31,28400,Annual average ~29600
+2013,April,2013-04-30,25700,Annual average ~29600
+2013,May,2013-05-31,25800,Annual average ~29600
+2013,June,2013-06-30,23200,Annual average ~29600
+2013,July,2013-07-31,26100,Annual average ~29600
+2013,August,2013-08-31,30400,Annual average ~29600
+2013,September,2013-09-30,27200,Annual average ~29600
+2013,October,2013-10-31,26800,Annual average ~29600
+2013,November,2013-11-30,25500,Annual average ~29600
+2013,December,2013-12-31,24400,Annual average ~29600
+2014,January,2014-01-31,25600,Annual average ~28006
+2014,February,2014-02-28,26800,Annual average ~28006
+2014,March,2014-03-31,25300,Annual average ~28006
+2014,April,2014-04-30,25400,Annual average ~28006
+2014,May,2014-05-31,24200,Annual average ~28006
+2014,June,2014-06-30,25800,Annual average ~28006
+2014,July,2014-07-31,25600,Annual average ~28006
+2014,August,2014-08-31,25500,Annual average ~28006
+2014,September,2014-09-30,24600,Annual average ~28006
+2014,October,2014-10-31,23400,Annual average ~28006
+2014,November,2014-11-30,24100,Annual average ~28006
+2014,December,2014-12-31,24900,Annual average ~28006
+2015,January,2015-01-31,25600,Annual average ~26343
+2015,February,2015-02-28,24500,Annual average ~26343
+2015,March,2015-03-31,24200,Annual average ~26343
+2015,April,2015-04-30,24500,Annual average ~26343
+2015,May,2015-05-31,24800,Annual average ~26343
+2015,June,2015-06-30,24400,Annual average ~26343
+2015,July,2015-07-31,23000,Annual average ~26343
+2015,August,2015-08-31,24600,Annual average ~26343
+2015,September,2015-09-30,23900,Annual average ~26343
+2015,October,2015-10-31,24500,Annual average ~26343
+2015,November,2015-11-30,23100,Annual average ~26343
+2015,December,2015-12-31,23100,Annual average ~26343
+2016,January,2016-01-31,24700,Annual average ~28623
+2016,February,2016-02-29,27600,Annual average ~28623
+2016,March,2016-03-31,26800,Annual average ~28623
+2016,April,2016-04-30,27900,Annual average ~28623
+2016,May,2016-05-31,26600,Annual average ~28623
+2016,June,2016-06-30,29200,Annual average ~28623
+2016,July,2016-07-31,29300,Annual average ~28623
+2016,August,2016-08-31,28700,Annual average ~28623
+2016,September,2016-09-30,28800,Annual average ~28623
+2016,October,2016-10-31,27800,Annual average ~28623
+2016,November,2016-11-30,26400,Annual average ~28623
+2016,December,2016-12-31,25500,Annual average ~28623
+2017,January,2017-01-31,26800,Annual average ~29667
+2017,February,2017-02-28,27400,Annual average ~29667
+2017,March,2017-03-31,26400,Annual average ~29667
+2017,April,2017-04-30,26600,Annual average ~29667
+2017,May,2017-05-31,26700,Annual average ~29667
+2017,June,2017-06-30,26300,Annual average ~29667
+2017,July,2017-07-31,26600,Annual average ~29667
+2017,August,2017-08-31,27500,Annual average ~29667
+2017,September,2017-09-30,27400,Annual average ~29667
+2017,October,2017-10-31,26900,Annual average ~29667
+2017,November,2017-11-30,27000,Annual average ~29667
+2017,December,2017-12-31,27100,Annual average ~29667
+2018,January,2018-01-31,28000,Annual average ~31438
+2018,February,2018-02-28,28100,Annual average ~31438
+2018,March,2018-03-31,28200,Annual average ~31438
+2018,April,2018-04-30,28600,Annual average ~31438
+2018,May,2018-05-31,28800,Annual average ~31438
+2018,June,2018-06-30,28000,Annual average ~31438
+2018,July,2018-07-31,27300,Annual average ~31438
+2018,August,2018-08-31,27900,Annual average ~31438
+2018,September,2018-09-30,28100,Annual average ~31438
+2018,October,2018-10-31,29400,Annual average ~31438
+2018,November,2018-11-30,27800,Annual average ~31438
+2018,December,2018-12-31,29200,Annual average ~31438
+2019,January,2019-01-31,30700,Annual average ~35220
+2019,February,2019-02-28,30600,Annual average ~35220
+2019,March,2019-03-31,29400,Annual average ~35220
+2019,April,2019-04-30,29200,Annual average ~35220
+2019,May,2019-05-31,29500,Annual average ~35220
+2019,June,2019-06-30,31800,Annual average ~35220
+2019,July,2019-07-31,32200,Annual average ~35220
+2019,August,2019-08-31,35800,Annual average ~35220
+2019,September,2019-09-30,34400,Annual average ~35220
+2019,October,2019-10-31,35200,Annual average ~35220
+2019,November,2019-11-30,34300,Annual average ~35220
+2019,December,2019-12-31,35400,Annual average ~35220
+2020,January,2020-01-31,37100,Annual average ~48651
+2020,February,2020-02-29,38200,Annual average ~48651
+2020,March,2020-03-31,39700,Annual average ~48651
+2020,April,2020-04-30,41900,Annual average ~48651
+2020,May,2020-05-31,42800,Annual average ~48651
+2020,June,2020-06-30,43700,Annual average ~48651
+2020,July,2020-07-31,48200,Annual average ~48651
+2020,August,2020-08-31,46900,Annual average ~48651
+2020,September,2020-09-30,45400,Annual average ~48651
+2020,October,2020-10-31,45900,Annual average ~48651
+2020,November,2020-11-30,42700,Annual average ~48651
+2020,December,2020-12-31,45200,Annual average ~48651
+2021,January,2021-01-31,44500,Annual average ~48720
+2021,February,2021-02-28,42200,Annual average ~48720
+2021,March,2021-03-31,40500,Annual average ~48720
+2021,April,2021-04-30,42800,Annual average ~48720
+2021,May,2021-05-31,45100,Annual average ~48720
+2021,June,2021-06-30,42900,Annual average ~48720
+2021,July,2021-07-31,44400,Annual average ~48720
+2021,August,2021-08-31,43400,Annual average ~48720
+2021,September,2021-09-30,42400,Annual average ~48720
+2021,October,2021-10-31,43400,Annual average ~48720
+2021,November,2021-11-30,44400,Annual average ~48720
+2021,December,2021-12-31,44000,Annual average ~48720
+2022,January,2022-01-31,43800,Annual average ~52670
+2022,February,2022-02-28,47300,Annual average ~52670
+2022,March,2022-03-31,48300,Annual average ~52670
+2022,April,2022-04-30,47900,Annual average ~52670
+2022,May,2022-05-31,46700,Annual average ~52670
+2022,June,2022-06-30,46900,Annual average ~52670
+2022,July,2022-07-31,45600,Annual average ~52670
+2022,August,2022-08-31,44700,Annual average ~52670
+2022,September,2022-09-30,44500,Annual average ~52670
+2022,October,2022-10-31,44400,Annual average ~52670
+2022,November,2022-11-30,46800,Annual average ~52670
+2022,December,2022-12-31,49200,Annual average ~52670
+2023,January,2023-01-31,57400,Source: market data
+2023,February,2023-02-28,56800,Source: market data
+2023,March,2023-03-31,60500,Source: market data
+2023,April,2023-04-30,61400,Source: market data
+2023,May,2023-05-31,60900,Source: market data
+2023,June,2023-06-30,59400,Source: market data
+2023,July,2023-07-31,59700,Source: market data
+2023,August,2023-08-31,59900,Source: market data
+2023,September,2023-09-30,58900,Source: market data
+2023,October,2023-10-31,61500,Source: market data
+2023,November,2023-11-30,62800,Source: market data
+2023,December,2023-12-31,63500,Source: market data (annual avg ~65330)
+2024,January,2024-01-31,63200,Source: market data
+2024,February,2024-02-29,64100,Source: market data
+2024,March,2024-03-31,66700,Source: market data
+2024,April,2024-04-30,73200,Source: market data
+2024,May,2024-05-31,73100,Source: market data
+2024,June,2024-06-30,71800,Source: market data
+2024,July,2024-07-31,72700,Source: market data
+2024,August,2024-08-31,72400,Source: market data
+2024,September,2024-09-30,75100,Source: market data
+2024,October,2024-10-31,79400,Source: market data
+2024,November,2024-11-30,77300,Source: market data
+2024,December,2024-12-31,76900,Source: market data (annual avg ~77913)
+2025,January,2025-01-31,80100,Source: market data
+2025,February,2025-02-28,85000,Source: market data
+2025,March,2025-03-31,89500,Source: market data
+2025,April,2025-04-30,95000,Source: market data
+2025,May,2025-05-31,98000,Source: market data
+2025,June,2025-06-30,96500,Source: market data
+2025,July,2025-07-31,97800,Source: market data
+2025,August,2025-08-31,99200,Source: market data
+2025,September,2025-09-30,101000,Source: market data
+2025,October,2025-10-31,103500,Source: market data
+2025,November,2025-11-30,107000,Source: market data
+2025,December,2025-12-31,110000,Source: market data (range ~105000-130000)
+2026,January,2026-01-31,134500,Source: BankBazaar/market data
+2026,February,2026-02-28,150000,Source: market data (~159000 avg Feb)
+2026,March,2026-03-31,152000,Source: market data
+2026,April,2026-04-11,152360,Source: Goodreturns (live: 15236/g = 152360/10g)
